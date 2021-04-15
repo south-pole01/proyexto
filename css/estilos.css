@@ -1,0 +1,56 @@
+header{
+    background-color: rgb(252, 224, 224);
+    width: 90%;
+    height: 200px;
+}
+
+a {
+    color:rgb(4, 47, 65);
+    font-family: 'Trebuchet MS';
+}
+#centro { 
+    text-align: center;
+    color:rgb(255, 255, 255);
+}
+
+.medio{
+    text-align: center;
+    color: crimson;
+}
+
+#peque {
+    font-size: smaller;
+    font-weight: bold;
+    color: deeppink;
+    text-align: center;
+}
+
+.caja{
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 50%;
+    font-family: 'Trebuchet MS';
+    color: red;
+    height: 150px;
+}
+
+.menu{
+    padding: 0%;
+    list-style: none;
+    background-color: rgb(215, 230, 243);
+    width: 90%;
+    margin: auto;
+}
+
+.menu li{
+    display: inline;
+    text-align: center;
+}
+
+.sep{
+    background-color: rgb(198, 150, 243);
+    width: 70%;
+    margin: auto;
+    height: 10px;
+    
+}
