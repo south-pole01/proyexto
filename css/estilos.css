@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(252, 224, 224);
+    background-color: rgb(231, 150, 150);
     width: 90%;
     height: 200px;
 }
@@ -37,7 +37,7 @@ a {
 .menu{
     padding: 0%;
     list-style: none;
-    background-color: rgb(215, 230, 243);
+    background-color: rgb(190, 161, 192);
     width: 90%;
     margin: auto;
 }
@@ -53,4 +53,10 @@ a {
     margin: auto;
     height: 10px;
    
+}
+
+.sep2{
+    background-color: rgb(254, 215, 255);
+    width: 80%;
+    height: 5px;
 }
