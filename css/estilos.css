@@ -6,6 +6,7 @@ header{
     margin-left: auto;
 }
 
+
 a {
     color:rgb(4, 47, 65);
     font-family: 'Trebuchet MS';
@@ -33,7 +34,9 @@ a {
     width: 50%;
     font-family: 'Trebuchet MS';
     color: red;
-    height: 400px;
+    height: auto;
+    margin-bottom: 1%;
+  
 }
 
 .menu{
@@ -42,31 +45,30 @@ a {
     background-color: rgb(190, 161, 192);
     width: 90%;
     margin: auto;
+    
 }
 
 .menu li{
     display: inline;
     text-align: center;
+   
 }
 
 .sep{
     background-color: rgb(198, 150, 243);
-    width: 70%;
+    width: 80%;
     margin: auto;
-    height: 10px;
+    height: auto;
+    margin-bottom: 1%;
    
-}
-
-.sep2{
-    background-color: rgb(254, 215, 255);
-    width: 90%;
-    height: 5px;
 }
 
 .centra2{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
 
 }
 
