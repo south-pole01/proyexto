@@ -94,3 +94,26 @@ form{
 
 }
 
+.video-responsivo {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; 
+    height: 0;
+    overflow: hidden;
+    }
+    
+.video-responsivo iframe,
+.video-responsivo object,
+.video-responsivo embed {
+    position: absolute;
+    margin-left: 5%;
+    width: 90%;
+    height: 90%;
+    }
+.mt-5{
+    background-color: rgb(245, 222, 222);
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
